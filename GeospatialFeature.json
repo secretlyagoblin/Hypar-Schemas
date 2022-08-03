@@ -1,9 +1,9 @@
 {
-    "$id": "https://raw.githubusercontent.com/secretlyagoblin/Hypar-Schemas/main/Feature.json",
+    "$id": "https://raw.githubusercontent.com/secretlyagoblin/Hypar-Schemas/main/GeospatialFeature.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "description": "A Geojson feature",
-    "title": "Feature",
-    "x-namespace": "Elements.Geojson",
+    "title": "GeospatialFeature",
+    "x-namespace": "Elements.Geospatial",
     "type": "object",
     "allOf": [{"$ref": "https://hypar.io/Schemas/Element.json"}],  
     "properties": {
