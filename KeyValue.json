@@ -2,7 +2,7 @@
     "$id": "https://raw.githubusercontent.com/secretlyagoblin/Hypar-Schemas/main/KeyValue.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
     "description": "A Geojson feature",
-    "title": "FeatureLine",
+    "title": "KeyValue",
     "x-namespace": "Elements.Geojson",
     "type": "object",
     "required": ["Key", "Value"],
